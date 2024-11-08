@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "name": "Fireball",
+        "type": "Spell",
+        "description": "Deal 5 damage to target.",
+        "power": 5
+    },
+    {
+        "id": 2,
+        "name": "Healing Potion",
+        "type": "Item",
+        "description": "Restore 5 health to player.",
+        "power": 5
+    }
+    // Add more cards here
+]
